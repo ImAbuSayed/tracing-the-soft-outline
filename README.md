@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-the-soft-outline/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tracing The Soft Outline](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-the-soft-outline/) |
+| **Get License** | [License this song: Tracing The Soft Outline](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-the-soft-outline/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight pulls the shadows close to you
+> Your fingers graze my skin like morning dew
+> We’re tangled in a silence running deep
+> A secret that the quiet wants to keep
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
